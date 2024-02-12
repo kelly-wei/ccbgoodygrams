@@ -1,0 +1,28 @@
+#App{
+  background-color: #41322C;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: grid;
+  font-family: "Playpen Sans", sans-serif;
+}
+
+@import url("https://fonts.googleapis.com/css?family=Playpen+Sans");
+
+.footer{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin-right: 10px;
+  color: white;
+  text-decoration: none;
+  font-family: "Playpen Sans", sans-serif;
+}
+
+body{
+  font-family: "Playpen Sans", sans-serif;
+}
+
+h2{
+  color: white;
+}
