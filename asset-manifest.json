@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ccbgoodygrams/static/css/main.647630ec.css",
-    "main.js": "/ccbgoodygrams/static/js/main.584ee60c.js",
+    "main.css": "/ccbgoodygrams/static/css/main.a2003257.css",
+    "main.js": "/ccbgoodygrams/static/js/main.80e1950d.js",
     "static/js/592.48b96324.chunk.js": "/ccbgoodygrams/static/js/592.48b96324.chunk.js",
     "static/media/img5.png": "/ccbgoodygrams/static/media/img5.2bad1634c5f3fea7cbef.png",
     "static/media/img0.png": "/ccbgoodygrams/static/media/img0.6662a85d3d5408ccfebb.png",
@@ -79,12 +79,12 @@
     "static/media/site_icon.png": "/ccbgoodygrams/static/media/site_icon.643c8392e3a6598aa5c8.png",
     "static/media/ccbStamp.png": "/ccbgoodygrams/static/media/ccbStamp.9f3597018a2acac7a477.png",
     "index.html": "/ccbgoodygrams/index.html",
-    "main.647630ec.css.map": "/ccbgoodygrams/static/css/main.647630ec.css.map",
-    "main.584ee60c.js.map": "/ccbgoodygrams/static/js/main.584ee60c.js.map",
+    "main.a2003257.css.map": "/ccbgoodygrams/static/css/main.a2003257.css.map",
+    "main.80e1950d.js.map": "/ccbgoodygrams/static/js/main.80e1950d.js.map",
     "592.48b96324.chunk.js.map": "/ccbgoodygrams/static/js/592.48b96324.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.647630ec.css",
-    "static/js/main.584ee60c.js"
+    "static/css/main.a2003257.css",
+    "static/js/main.80e1950d.js"
   ]
 }
